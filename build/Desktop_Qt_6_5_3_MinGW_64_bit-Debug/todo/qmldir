@@ -1,5 +1,0 @@
-module todo
-typeinfo apptodo.qmltypes
-prefer :/todo/
-Main 1.0 Main.qml
-
