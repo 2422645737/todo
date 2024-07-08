@@ -1,0 +1,14 @@
+-rootPath
+E:/Project/QtPro/todo/todo
+-cmake-output
+-output-file
+E:/Project/QtPro/todo/todo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_apptodo.cmake
+-importPath
+E:/Project/QtPro/todo/todo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/todo
+-importPath
+E:/Project/QtPro/todo/todo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.5.3/mingw_64/./qml
+-qrcFiles
+E:/Project/QtPro/todo/todo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/qmake_todo.qrc
+E:/Project/QtPro/todo/todo/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/.rcc/apptodo_raw_qml_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/todo/">
+    <file alias="Main.qml">E:/Project/QtPro/todo/todo/Main.qml</file>
+  </qresource>
+</RCC>
+
